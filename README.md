@@ -132,8 +132,8 @@ python -m pytest tests --cov=utils --cov-report=term-missing
 
 - Extract: 100%
 - Transform: 100%
-- Load: 90%+
-- Total Coverage: 98%+
+- Load: 100%
+- Total Coverage: 100%
 
 ---
 
